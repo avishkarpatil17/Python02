@@ -1,1 +1,1 @@
-# Python02
+# Python programming 2
